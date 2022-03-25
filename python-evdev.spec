@@ -7,7 +7,7 @@
 Summary:	Python bindings for the Linux input subsystem
 Name:		python-%{module}
 Version:	1.0.0
-Release:	5
+Release:	6
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/e/evdev/%{module}-%{version}.tar.gz
