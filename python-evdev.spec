@@ -6,12 +6,12 @@
 %define 	module	evdev
 Summary:	Python bindings for the Linux input subsystem
 Name:		python-%{module}
-Version:	1.5.0
-Release:	4
+Version:	1.6.0
+Release:	1
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/e/evdev/%{module}-%{version}.tar.gz
-# Source0-md5:	3fc7c0d0fcd3382fdd3a1a52f1017023
+# Source0-md5:	2b4fda53215359aabc561906f09845d4
 URL:		https://github.com/gvalkov/python-evdev
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
